@@ -1,0 +1,4 @@
+#as pastas serão ignoradas
+
+bin/
+obj/Debug/

@@ -1006,25 +1006,25 @@
     ]
   },
   "packageFolders": {
-    "/home/tatu/.nuget/packages/": {}
+    "C:\\Users\\mauri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tatu/projetoCs/CMS_in_cs-BackEnd/cms/cms.csproj",
+      "projectUniqueName": "C:\\projetoCsharp\\CMS_in_cs-BackEnd\\cms\\cms.csproj",
       "projectName": "cms",
-      "projectPath": "/home/tatu/projetoCs/CMS_in_cs-BackEnd/cms/cms.csproj",
-      "packagesPath": "/home/tatu/.nuget/packages/",
-      "outputPath": "/home/tatu/projetoCs/CMS_in_cs-BackEnd/cms/obj/",
+      "projectPath": "C:\\projetoCsharp\\CMS_in_cs-BackEnd\\cms\\cms.csproj",
+      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+      "outputPath": "C:\\projetoCsharp\\CMS_in_cs-BackEnd\\cms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tatu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/home/tatu/.dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1075,7 +1075,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/tatu/.dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
